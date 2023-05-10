@@ -9,7 +9,7 @@
 Run the following command on your local environment:
 
 ```shell
-git clone https://github.com/hadi-16/nextjs-chat-openai.git your-project-name
+git clone https://github.com/FelyxYohanes/NextJsGPT.git your-project-name
 cd your-project-name
 npm install
 ```
@@ -50,11 +50,3 @@ structure folder app
 - ⚙️ State Management with [Zustand](https://www.npmjs.com/package/zustand)
 - 🔦 Animation Chats with [AutoAnimate](https://auto-animate.formkit.com)
 
-### Demo app
-Open [https://chat.hadi.pw](https://chat.hadi.pw) the url in your browser for the demo application.
-
-### Screenshoot app
-
-| Screenshot Chat | Screenshot Chats |
-| --- | --- |
-| ![SS Chat](https://github.com/hadi-16/nextjs-chat-openai/blob/main/public/image/ss-chat.png?raw=true "ss nextjs chat openai") | ![SS Chats](https://github.com/hadi-16/nextjs-chat-openai/blob/main/public/image/ss-chats.png?raw=true "ss nextjs chat openai") |
